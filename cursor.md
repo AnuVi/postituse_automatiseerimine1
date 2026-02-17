@@ -45,7 +45,7 @@ Kuidas tegutseda:
    ----- viimane_vol quotes.md all, mis on viimane #pealkiri vol #nr
    ----- yles_vol mitu tsitaati on quotes.md-s selle #pealkirja all juba (tehtud tsitaatide arv)
 
-   ```
+   
 
    #Inimesele
    - J lisad list.cvs käsitsi
@@ -54,3 +54,6 @@ Kuidas tegutseda:
 ----võrdle list.csv ja quotes.md #pealkiri veergu ning uuenda list.csv faili #yles_vol numbrit
 ----- kui quotes.md all puudub #pealkiri ja list.csv #yles_vol veerus on 0 ja #koik veerus on J, siis küsi, kas soovin antud rida eemaldada
 ------ kui ütlen jah, siis eemalda rida ja ka tasks.md Tehtud alt vastav #pealkirja rida
+
+
+   ```
