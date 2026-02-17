@@ -53,7 +53,7 @@ Siia kopin tsitaadid, mida on vaja teha.
 ### quotes.md
 Kui annan käsu Cursorile tegutseda, siis ta teeb valmis tsitaadi koodid ja eemaldab need **tasks.md** alt ja lisab need just sellesse faili.
 
-[Video selle kohta.](https://1drv.ms/v/c/315a2e7b2c65925e/IQCF0IbBidMlQ5YWzi3pol7wAWn14exPkDJAkSVh38SyjMI?e=iOri0G)
+[Video kahe eelneva faili kasutamise kohta.](https://1drv.ms/v/c/315a2e7b2c65925e/IQCF0IbBidMlQ5YWzi3pol7wAWn14exPkDJAkSVh38SyjMI?e=iOri0G)
 
 ### cursor.md
 Fail, mis kirjeldab, mida peab Cursor tegema. [Faili sisu näed siit.](https://github.com/AnuVi/postituse_automatiseerimine1/blob/main/cursor.md)
