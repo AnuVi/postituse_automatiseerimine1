@@ -7,7 +7,7 @@
 4. Vaata tasks.md, mida on vaja teha, vaata cursor.md kuidas käituda. Lähtu sellest. 
 5. Ära dubleeri koodi.
 6. Tee ainult tasks.md olevad muudatused.
-7.eleta enne, mida plaanid teha ja küsi selleks luba.
+7. Seleta enne, mida plaanid teha ja küsi selleks luba.
 8. Kui küsin nõu, anna mulle valikuid, aga kõige lihtsam lahendus anna kõige esimesena.
 
 Kuidas tegutseda:
