@@ -13,14 +13,15 @@ Alguses põnev, aga mingi hetk läks jube tüütuks:
   - Avaldada või seadistada avaldamine.
 
 ## Koodi kopimise vältimine
-Kuna ma tahtsin ka konkreetse kujundusega, siis aastaid tagasi kribasin ma valmis midagi sellist, et klikkides uus postitus nuppu avanes järgmine vaade:
+Kuna ma tahtsin ka konkreetse kujundusega, siis aastaid tagasi kribasin ma valmis midagi sellist, et klikkides uue postituse nuppu avanes järgmine vaade:
 
-<img width="1303" height="480" alt="Kuvatõmmis 2026-02-02 134823" src="https://github.com/user-attachments/assets/2349b694-eeb8-4e4c-a04e-5c84927be344" />
+<img width="1696" height="760" alt="Kuvatõmmis 2026-02-02 161919" src="https://github.com/user-attachments/assets/cfdb479a-c7a7-4fee-8320-f415073c8160" />
+
 
 
 Ehk ära jäi koodi kopimine. 
-- Tsitaat  _esimese <p>-tagide_ vahele.
-- Lehekülg _teise <p>-tagi 206_ asemele.
+- Tsitaat  _esimese p-tagide_ vahele.
+- Lehekülg _teise p-tagi 206_ asemele.
 - Pildi lisamisega endiselt veidi rohkem jamamist, aga lõpuks vormub selline koodi-osa, mida palju lihtsam kopeerida: 
 
 ```
@@ -34,10 +35,24 @@ Eesmärk ei ole midagi otsast luua vaid kergendada olemasolevat. Kuna ma seda k�
 - annan Cursorile ette tsitaadid 
 - ja tema tekitab neist #Pealkiri vol x + vormindatud tsitaadid, mis on lihtne kopida.
 
-Protsess lähemalt
-Mul on 
+Protsessist lähemalt. Mul on järgmised failid:
+
 ### list.csv 
-Siit saab Cursor pealkirja, millisest vol nr alustada ja mis caption võtta:
+Siit saab Cursor **pealkirja**, millisest **vol nr alustada** ja **mis caption** võtta:
 
 <img width="1233" height="529" alt="Kuvatõmmis 2026-02-02 160103" src="https://github.com/user-attachments/assets/a00c3142-8f4e-4e7e-97f3-7d861231649e" />
+
+Samuti uuendab ta hiljem veerge **viimane_vol** (ehk mitu tsitaati sellest raamatust on tehtud), **yles_vol** (mitu tsitaati on veel postitamata ehk pole quoates.md alt kustutatud). 
+<img width="613" height="399" alt="image" src="https://github.com/user-attachments/assets/e86b9ffb-6526-46fa-9faf-209990ecc21c" />
+
+
+### tasks.md
+Siia kopin tsitaadid, mida on vaja teha.
+
+### quotes.md
+Kui annan käsu Cursorile tegutseda, siis ta teeb valmis tsitaadi koodid ja eemaldab need **tasks.md** alt ja lisab need just sellesse faili.
+
+### cursor.md
+Fail, mis kirjeldab, mida peab Cursor tegema. [Faili sisu näed siit.](https://github.com/AnuVi/postituse_automatiseerimine1/blob/main/cursor.md)
+
 
