@@ -35,16 +35,17 @@ Eesmärk ei ole midagi otsast luua vaid kergendada olemasolevat. Kuna ma seda k�
 - annan Cursorile ette tsitaadid 
 - ja tema tekitab neist #Pealkiri vol x + vormindatud tsitaadid, mis on lihtne kopida.
 
-Protsessist lähemalt. Mul on järgmised failid:
+Mul on järgmised failid:
 
 ### list.csv 
 Siit saab Cursor **pealkirja**, millisest **vol nr alustada** ja **mis caption** võtta:
 
 <img width="1233" height="529" alt="Kuvatõmmis 2026-02-02 160103" src="https://github.com/user-attachments/assets/a00c3142-8f4e-4e7e-97f3-7d861231649e" />
 
-Samuti uuendab ta hiljem veerge **viimane_vol** (ehk mitu tsitaati sellest raamatust on tehtud), **yles_vol** (mitu tsitaati on veel postitamata ehk pole quoates.md alt kustutatud). 
+Samuti uuendab ta hiljem veerge **viimane_vol** (ehk mitu tsitaati sellest raamatust on tehtud), **yles_vol** (mitu tsitaati on veel postitamata ehk pole quotes.md alt kustutatud). 
 <img width="613" height="399" alt="image" src="https://github.com/user-attachments/assets/e86b9ffb-6526-46fa-9faf-209990ecc21c" />
 
+[Faili uuendamise kohta video.](https://1drv.ms/v/c/315a2e7b2c65925e/IQBWUAqV_X-yRoGc5WCtduWUAd2wwNEa-zWJh5T5ITMer1o?e=vMqYC0)
 
 ### tasks.md
 Siia kopin tsitaadid, mida on vaja teha.
@@ -55,7 +56,30 @@ Kui annan käsu Cursorile tegutseda, siis ta teeb valmis tsitaadi koodid ja eema
 
 [Video kahe eelneva faili kasutamise kohta.](https://1drv.ms/v/c/315a2e7b2c65925e/IQCF0IbBidMlQ5YWzi3pol7wAWn14exPkDJAkSVh38SyjMI?e=iOri0G)
 
+#### Plugin 
+Järgmine küsimus, mida lahendada oli, et **kuidas panna automaatselt külge kategooriad ehk raamatu/artikli pealkiri ja autor**.
+
+Plugina kirjutamisest siiski ei pääsenud. Pealkirja nuputas Cursor väga kiirelt välja. Autor nii lihtsalt ei tulnud. Et mitte ilma asjata õhku mõistata, siis debugimisel lasin vajalik info välja kuvada, kopisin talle. Ja sealt sai Cursor ise aru, et autori otsimiseks tuleb veenduda, et vol 1 on avaldatud postitus. Selle peale ma ise ei tulnud, et seda koheselt mainida. Ehk WP spetsiifilisus, et millise postitusega on tegemist (mustand, avaldatud), tuleb järgmisel korral meeles pidada.
+
+[Postituste lisamine käib siis nüüd nii.](https://1drv.ms/v/c/315a2e7b2c65925e/IQDOo64mqRh5RrLNINVTM6P6AcTZZw0Q0EqkpB79-DGoyYE?e=dgDw7o)
+
+
 ### cursor.md
 Fail, mis kirjeldab, mida peab Cursor tegema. [Faili sisu näed siit.](https://github.com/AnuVi/postituse_automatiseerimine1/blob/main/cursor.md)
 
+## Mis järeldused?
 
+1. Ka nii tehes, läheb Cursoril tegelikult üllatavalt palju aega, st tsitaatid kopimisvalmis oleks, ei ole "silmapilk".
+2. Kui palju õpetada ise ja palju lasta Cursoril mõelda? Ausalt öeldes ma ei tea, see vist sõltub.
+   * Ta ikkagi surub vahete-vahel suunda, kuhu ei taha minna või mida juba oleme teinud.
+   * Vaatamata sellele, et asjad on ette öelud ja iga kord lasen cursor.md lugeda, siis ikka ta üllatavates kohtades peatub ja tahab miskit muud teha või laseb lihtsalt üle.
+   * saan aru, et pole valmis protsess ja tahab täiendamist, aga hetkel las olla.
+3. Iseenda kohta:
+  * Ma olen ebajärjekindel - vaadake või cursor.md-d.
+  * Ma kardan, et mõnes kohas ise tehes + Emmet läheks hulga kiiremini, kui seletada, mis tegema peab. Mu laiskuse tipptase: näen kirjaviga ja kirjutan Cursorile selle asemel, et ise parandada.
+  * markdowni on silmale harjumatu.
+
+Tol päeval, kui ehitasin, siis lasin veel parandada koodis kaks asja: tähestikuline kuvamine ja raamatute välja kuvamine. Kokku tööaeg ikkagi hindaksin sinna tööpäeva kanti.
+
+   
+   
