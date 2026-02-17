@@ -1,4 +1,4 @@
-
+```
 <!-- Lisa siia Cursoriga seotud märkmed ja juhised -->
 # Cursor
 1. Ära kasuta emotikone.
@@ -45,7 +45,7 @@ Kuidas tegutseda:
    ----- viimane_vol quotes.md all, mis on viimane #pealkiri vol #nr
    ----- yles_vol mitu tsitaati on quotes.md-s selle #pealkirja all juba (tehtud tsitaatide arv)
 
-   
+   ```
 
    #Inimesele
    - J lisad list.cvs käsitsi
