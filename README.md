@@ -49,8 +49,11 @@ Samuti uuendab ta hiljem veerge **viimane_vol** (ehk mitu tsitaati sellest raama
 ### tasks.md
 Siia kopin tsitaadid, mida on vaja teha.
 
+
 ### quotes.md
 Kui annan käsu Cursorile tegutseda, siis ta teeb valmis tsitaadi koodid ja eemaldab need **tasks.md** alt ja lisab need just sellesse faili.
+
+![1_gif](https://github.com/user-attachments/assets/553c0361-5342-4ee1-80bf-11490e2ebb35)
 
 ### cursor.md
 Fail, mis kirjeldab, mida peab Cursor tegema. [Faili sisu näed siit.](https://github.com/AnuVi/postituse_automatiseerimine1/blob/main/cursor.md)
