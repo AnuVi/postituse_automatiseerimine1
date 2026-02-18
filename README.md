@@ -67,7 +67,7 @@ Plugina kirjutamisest siiski ei pääsenud. Pealkirja nuputas Cursor väga kiire
 
 
 ### cursor.md
-Fail, mis kirjeldab, mida peab Cursor tegema. [Faili sisu näed siit.](https://github.com/AnuVi/postituse_automatiseerimine1/blob/main/cursor.md
+Fail, mis kirjeldab, mida peab Cursor tegema. [Faili sisu näed siit.](https://github.com/AnuVi/postituse_automatiseerimine1/blob/main/cursor.md)
 
 
 ## Mis järeldused?
@@ -79,7 +79,7 @@ Fail, mis kirjeldab, mida peab Cursor tegema. [Faili sisu näed siit.](https://g
    * Ikkagi protsess ja tahab täiendamist, aga hetkel las olla. 
 3. Iseenda kohta:
   * Ma olen ebajärjekindel - vaadake või cursor.md-d.
-  * Ma kardan, et mõnes kohas ise tehes + Emmet läheks hulga kiiremini, kui seletada, mis tegema peab. Mu laiskuse tipptase: näen kirjaviga ja kirjutan Cursorile selle asemel, et ise parandada.
+  * Ma kardan, et mõnes projektis ise tehes + Emmet läheks hulga kiiremini, kui seletada, mis tegema peab. Mu laiskuse tipptase: näen kirjaviga ja kirjutan Cursorile selle asemel, et ise parandada.
   * Markdown on silmale harjumatu. Nt, kuidas teha sisukorda, on tüütu.
 4. Edasiarendused? Võimalikud.
 * WP API-kaudu postituste tegemine, aga sain vea ja pean ilmselt majutuse pakkuja poole pöörduma, et lahti teeks, aga ma ei viitsi ...
