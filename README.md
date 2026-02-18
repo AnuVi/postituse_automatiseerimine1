@@ -71,17 +71,17 @@ Fail, mis kirjeldab, mida peab Cursor tegema. [Faili sisu näed siit.](https://g
 
 ## Mis järeldused?
 
-1. Ka nii tehes, läheb Cursoril tegelikult üllatavalt palju aega, st tsitaatid kopimisvalmis oleks, ei ole "silmapilk".
+1. Ka nii tehes, läheb Cursoril tegelikult üllatavalt palju aega, et tsitaadid kopimisvalmis oleks, ei ole "silmapilk".
 2. Kui palju õpetada ise ja palju lasta Cursoril mõelda? Ausalt öeldes ma ei tea, see vist sõltub.
-   * Ta ikkagi surub vahete-vahel suunda, kuhu ei taha minna või mida juba oleme teinud.
-   * Vaatamata sellele, et asjad on ette öelud ja iga kord lasen cursor.md lugeda, siis ikka ta üllatavates kohtades peatub ja tahab miskit muud teha või laseb lihtsalt üle.
-   * saan aru, et pole valmis protsess ja tahab täiendamist, aga hetkel las olla.
+   * Ta ikkagi surub vahete-vahel suunda, kuhu ei taha minna või mida juba oleme teinud. Kuigi selle projekti puhul ma seda väga ei tundnud, sest kirjutasin cursor.md enne jupiti valmis ja siis hakkasin testima.
+   * Vaatamata sellele, et asjad on ette öelud ja iga kord lasen cursor.md lugeda, siis võib ta üllatavates kohtades peatuda ja tahab miskit muud teha või laseb lihtsalt üle.
+   * Saan aru, et pole valmis protsess ja tahab täiendamist, aga hetkel las olla. 
 3. Iseenda kohta:
   * Ma olen ebajärjekindel - vaadake või cursor.md-d.
   * Ma kardan, et mõnes kohas ise tehes + Emmet läheks hulga kiiremini, kui seletada, mis tegema peab. Mu laiskuse tipptase: näen kirjaviga ja kirjutan Cursorile selle asemel, et ise parandada.
-  * markdowni on silmale harjumatu.
+  * Markdown on silmale harjumatu.
 
-Tol päeval, kui ehitasin, siis lasin veel parandada koodis kaks asja: tähestikuline kuvamine ja raamatute välja kuvamine. Kokku tööaeg ikkagi hindaksin sinna tööpäeva kanti.
+Tol päeval, kui ehitasin, siis lasin veel parandada koodis kaks asja: tähestikuline kuvamine ja raamatute/autorite välja kuvamine, kui autor puudub. Kokku tööaega hindaksin sinna tööpäeva kanti.
 
    
    
