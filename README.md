@@ -42,7 +42,7 @@ Siit saab Cursor **pealkirja**, millisest **vol nr alustada** ja **mis caption**
 
 <img width="1233" height="529" alt="Kuvatõmmis 2026-02-02 160103" src="https://github.com/user-attachments/assets/a00c3142-8f4e-4e7e-97f3-7d861231649e" />
 
-Samuti uuendab ta hiljem veerge **viimane_vol** (ehk mitu tsitaati sellest raamatust on tehtud), **yles_vol** (mitu tsitaati on veel postitamata ehk pole quotes.md alt kustutatud). 
+Samuti uuendab ta hiljem veerge **viimane_vol** (ehk mitu tsitaati sellest raamatust on tehtud), **yles_vol** (mitu tsitaati on veel postitamata ehk pole quotes.md-st kustutatud). 
 <img width="613" height="399" alt="image" src="https://github.com/user-attachments/assets/e86b9ffb-6526-46fa-9faf-209990ecc21c" />
 
 **koik** veeru märgin mina J, kui sellest raamatust on kõik tsitaadid tehtud ehk mingi hetk saab selle rea kustutada, kui yles_vol = 0 ja koik = J.
