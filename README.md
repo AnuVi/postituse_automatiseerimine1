@@ -78,12 +78,12 @@ Fail, mis kirjeldab, mida peab Cursor tegema. [Faili sisu näed siit.](https://g
    * Vaatamata sellele, et asjad on ette öeldud ja iga kord lasen cursor.md lugeda, siis võib ta üllatavates kohtades peatuda ja tahab miskit muud teha või laseb lihtsalt üle.
    * Ikkagi protsess ja tahab täiendamist, aga hetkel las olla. 
 3. Iseenda kohta:
-  * Ma olen ebajärjekindel - vaadake või cursor.md-d.
-  * Ma kardan, et mõnes projektis ise tehes + Emmet läheks hulga kiiremini, kui seletada, mis tegema peab. Mu laiskuse tipptase: näen kirjaviga ja kirjutan Cursorile selle asemel, et ise parandada.
-  * Markdown on silmale harjumatu. Nt, kuidas teha sisukorda, on tüütu.
+   * Ma olen ebajärjekindel - vaadake või cursor.md-d.
+   * Ma kardan, et mõnes projektis ise tehes + Emmet läheks hulga kiiremini, kui seletada, mis tegema peab. Mu laiskuse tipptase: näen kirjaviga ja kirjutan Cursorile selle asemel, et ise parandada.
+   * Markdown on silmale harjumatu. Nt, kuidas teha sisukorda, on tüütu.
 4. Edasiarendused? Võimalikud.
-* WP API-kaudu postituste tegemine, aga sain vea ja pean ilmselt majutuse pakkuja poole pöörduma, et lahti teeks, aga ma ei viitsi ...
-* Hetkel kirjutan tsitaadid Docsi ja sealt kopin tasks.md. Saan aru, et säilitan kontrolli. Võimalus nt Sheetsi ja sealt ühendus/.csv - aga ümberõpe jääb ikkagi hetkel minu harjumuste taha.
+  * WP API-kaudu postituste tegemine, aga sain vea ja pean ilmselt majutuse pakkuja poole pöörduma, et lahti teeks, aga ma ei viitsi ...
+  * Hetkel kirjutan tsitaadid Docsi ja sealt kopin tasks.md. Saan aru, et säilitan kontrolli. Võimalus nt Sheetsi ja sealt ühendus/.csv - aga ümberõpe jääb ikkagi hetkel minu harjumuste taha.
 
 
 Tol päeval, kui ehitasin, siis lasin veel parandada koodis kaks asja: tähestikuline kuvamine ja raamatute/autorite välja kuvamine, kui autor puudub. Kokku tööaega hindaksin sinna tööpäeva kanti.
