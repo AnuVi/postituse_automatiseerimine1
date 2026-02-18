@@ -61,7 +61,7 @@ Kui annan käsu Cursorile tegutseda, siis ta teeb valmis tsitaadi koodid ja eema
 #### Plugin 
 Järgmine küsimus, mida lahendada oli, et **kuidas panna automaatselt külge kategooriad ehk raamatu/artikli pealkiri ja autor**.
 
-Plugina kirjutamisest siiski ei pääsenud. Pealkirja nuputas Cursor väga kiirelt välja. Autor nii lihtsalt ei tulnud. Et mitte ilma asjata õhku mõistata, siis debugimisel lasin vajalik info välja kuvada, kopisin talle. Ja sealt sai Cursor ise aru, et autori otsimiseks tuleb veenduda, et vol 1 on avaldatud postitus. Selle peale ma ise ei tulnud, et seda koheselt mainida. Ehk WP spetsiifilisus, et millise postitusega on tegemist (mustand, avaldatud), tuleb järgmisel korral meeles pidada.
+Plugina kirjutamisest siiski ei pääsenud. Pealkirja nuputas Cursor väga kiirelt välja. Autor nii lihtsalt ei tulnud. Et mitte ilma asjata õhku mõistata, siis debugimisel lasin vajalik info välja kuvada ning kopisin talle. Ja sealt sai Cursor ise aru, et autori otsimiseks tuleb veenduda, et vol 1 on avaldatud postitus. Selle peale ma ise ei tulnud, et seda koheselt mainida. Ehk WP spetsiifilisus, et millise postitusega on tegemist (mustand, avaldatud), tuleb järgmisel korral meeles pidada.
 
 [Postituste lisamine käib siis nüüd nii.](https://1drv.ms/v/c/315a2e7b2c65925e/IQDOo64mqRh5RrLNINVTM6P6AcTZZw0Q0EqkpB79-DGoyYE?e=dgDw7o)
 
