@@ -45,6 +45,8 @@ Siit saab Cursor **pealkirja**, millisest **vol nr alustada** ja **mis caption**
 Samuti uuendab ta hiljem veerge **viimane_vol** (ehk mitu tsitaati sellest raamatust on tehtud), **yles_vol** (mitu tsitaati on veel postitamata ehk pole quotes.md alt kustutatud). 
 <img width="613" height="399" alt="image" src="https://github.com/user-attachments/assets/e86b9ffb-6526-46fa-9faf-209990ecc21c" />
 
+**koik** veeru märgin mina J, kui sellest raamatust on kõik tsitaadid tehtud ehk mingi hetk saab selle rea kustutada, kui yles_vol = 0 ja koik = J.
+
 [Faili uuendamise kohta video.](https://1drv.ms/v/c/315a2e7b2c65925e/IQBWUAqV_X-yRoGc5WCtduWUAd2wwNEa-zWJh5T5ITMer1o?e=vMqYC0)
 
 ### tasks.md
