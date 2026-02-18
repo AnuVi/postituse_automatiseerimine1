@@ -33,7 +33,7 @@ Ja noh, ikka võtab kaua aega. Ca tund, kui nädalaks ette teha.
 ## Kas kuidagi saaks tüütust vähendada Cursori abil? 
 Eesmärk ei ole midagi otsast luua vaid kergendada olemasolevat. Kuna ma seda kõik olen ise teinud, siis mul on ülevaade, millisteks juppideks asi lõhkuda:
 - annan Cursorile ette tsitaadid 
-- ja tema tekitab neist #Pealkiri vol x + vormindatud tsitaadid, mis on lihtne kopida.
+- ja tema tekitab neist #Pealkiri vol x + vormindatud tsitaadid, mida on lihtne kopida.
 
 Mul on järgmised failid:
 
